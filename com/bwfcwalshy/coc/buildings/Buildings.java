@@ -14,5 +14,4 @@ public enum Buildings {
         this.hp = hp;
     }
     
-    
 }
