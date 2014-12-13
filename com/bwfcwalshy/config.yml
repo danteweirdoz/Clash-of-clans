@@ -1,0 +1,7 @@
+#Configuration of CoC 
+
+UseMysql: true
+MySqlHost: localhost
+MySqlUsername: root
+MySqlPassword: password
+MySqlPort: 881
